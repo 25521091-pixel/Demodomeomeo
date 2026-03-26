@@ -3,7 +3,7 @@
 #include <iostream>
 #include <raylib.h>
 #include <raymath.h>
-//stupidnig
+// stupidnig
 using namespace std;
 
 Color black = GetColor(0x000000FF);
